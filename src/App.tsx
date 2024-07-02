@@ -10,7 +10,6 @@ import { Todo } from "./components/Todo";
 import { TodoSection } from "./components/TodoSection";
 import { SummaryRow } from "./components/SummaryRow";
 import { FilterButton } from "./components/FilterButton";
-import './App.css'
 
 const Wrapper = styled.div`
   display: flex;
